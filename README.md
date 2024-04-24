@@ -1,0 +1,1 @@
+This repository contains a blog about the differnces between document vs window object
